@@ -1,5 +1,11 @@
 # 股吧投资者情绪分析与股价预测
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D%20%2F%20LDA-8A2BE2?style=flat-square)
+![LSTM](https://img.shields.io/badge/Model-LSTM%20%2F%20RandomForest%20%2F%20GARCH--X-informational?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+
 > 从东方财富股吧文本出发，构建「文本 → 情绪指标 → 股价预测」的完整分析链路：中文分词、情感量化、LDA 主题建模、特征工程，最后用随机森林 / LSTM / GARCH-X 三类模型验证情绪因子对收益与波动的解释力。
 > 本项目为《财经领域数据挖掘与分析》综合实践作品。
 
